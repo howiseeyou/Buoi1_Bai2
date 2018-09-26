@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Buoi1_Bai2</string>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="txt">Bai thuc hanh menu context</string>
+    <string name="btn0">CONTEXTMENU</string>
+    <string name="btn">THOAT</string>
+    <string name="image">Image</string>
+    <string name="ibtn">ibutton</string>
+</resources>
